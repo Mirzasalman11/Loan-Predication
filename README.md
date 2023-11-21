@@ -17,7 +17,7 @@ This project offers a machine-learning model that create classification on loan 
 
 - `README.md`: Documentation of the project.
 - `main.py`: Python script for making loan classification.
-- `data.joblib : weights of transformer used to transfer data before traning.
+- `data.joblib` : weights of transformer used to transfer data before traning.
 - `model.joblib`: Pre-trained svm model for diabetes classification.
 
 ## Setup
@@ -25,7 +25,7 @@ This project offers a machine-learning model that create classification on loan 
 1. Clone the repository:
    ```shell
    git clone <repository-url>
-   cd House Loan Predication
+   cd Loan Predication
 Create a virtual environment (recommended) and install the required dependencies:
 python -m venv venv
 source venv/bin/activate  # On Windows, use: venv\Scripts\activate
