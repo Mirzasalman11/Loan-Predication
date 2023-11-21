@@ -55,7 +55,9 @@ There are several ways to improve the model and the project:
 Explore more advanced machine learning techniques.
 Fine-tune hyperparameters for better model performance.
 Gather more labeled data for improved accuracy.
-References
-Author: Mirza Salman
-Contact: salmansaluu661@gmail.com
+## References
+
+- Author: Mirza Salman
+- Contact: salmansaluu661@gmail.com
+
 Feel free to customize this README to include any additional information you want to provide about the project.
